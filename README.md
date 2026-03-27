@@ -15,6 +15,7 @@ Tarea 2 - MéridaFrancisco - QuezadaLeonardo
 # ENTORNO DE DESARROLLO
 
 Realizamos lo solicitado en un programa desarrollado en python versión 3.12.3, llamado “T02.py” por lo que puede ser ejecutado en cualquier sistema operativo que cuente con Python3.
+
 Se creó una interfaz del programa la cual fue desarrollada utilizando la biblioteca curses, está librería permite la creación de interfaces dinámicas en la terminal sin necesidad de entornos gráficos externos.
 
 ## Forma de ejecución
